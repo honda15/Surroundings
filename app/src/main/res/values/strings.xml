@@ -1,0 +1,62 @@
+<resources>
+
+    <string name="app_name">遠端環境監控系統</string>
+
+    <string name="login_name">系 統 登 入</string>
+
+    <string name="main_title">感 測 資 料</string>
+
+    <string name="main_date_now">資 料 時 間</string>
+
+    <string name="main_temp_now">** 最 新 溫 度 **</string>
+
+    <string name="main_pm25_now">** 最 新PM2.5 **</string>
+
+    <string name="main_rh_now">** 最 新 溼 度 **</string>
+
+    <string name="main_temp_max">當 日 溫 度(最高)</string>
+
+    <string name="main_temp_min">當 日 溫 度(最低)</string>
+
+    <string name="main_temp_avg">當 日 溫 度(平均)</string>
+
+    <string name="main_pm25_max">當 日 PM2.5(最高)</string>
+
+    <string name="main_pm25_min">當 日 PM2.5(最低)</string>
+
+    <string name="main_pm25_avg">當 日 PM2.5(平均)</string>
+
+    <string name="main_rh_max">當 日 溼 度(最高)</string>
+
+    <string name="main_rh_min">當 日 溼 度(最低)</string>
+
+    <string name="main_rh_avg">當 日 溼 度(平均)</string>
+
+    <string name="setup_title_value">環 境 設 定</string>
+
+    <string name="setup_temp_value">溫 度 Temperature(°C)</string>
+
+    <string name="setup_pm25_value">P M 2.5(μg/m3)</string>
+
+    <string name="setup_rh_value">溼 度 (RH%)</string>
+
+    <string name="todayStr_title">今天即時天候</string>
+
+    <string name="todayStr_date">時 間</string>
+
+    <string name="todayStr_loc">地 區</string>
+
+    <string name="todayStr_lat">緯 度</string>
+
+    <string name="todayStr_lon">經 度</string>
+
+    <string name="todayStr_temp">溫 度</string>
+
+    <string name="todayStr_humd">溼 度</string>
+
+    <string name="todayStr_h24r">雨 量</string>
+
+    <string name="todayStr_uv">紫外線</string>
+
+
+</resources>
